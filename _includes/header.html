@@ -45,10 +45,10 @@
               {%- endif %} -->
               <!-- CV -->
               <li class="nav-item {% if page.title == 'CV' %}active{% endif %}">
-                <a class="nav-link" href="assets/pdf/papers_MUSE.pdf">CV
+                <a class="nav-link" href="/assets/pdf/papers_MUSE.pdf">CV
                 </a>
               </li>
-              {%- endif %}
+              <!-- {%- endif %} -->
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "title" -%}
               {%- for p in sorted_pages -%}
