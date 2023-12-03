@@ -2,29 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. student in Machine Learning
+subtitle: Master student in Machine Learning
 
 profile:
   align: right
-  image: yunhak.jpg
-  # address: >
-  #   <p>555 your office number</p>
-  #   <p>123 your address street</p>
-  #   <p>Your City, State 12345</p>
+  image: HeewoongNoh.github.io/assets/img/heewoongnoh.jpg
+  # caption: >
+  #   <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
 
 news: true  # includes a list of news items
-sections: true # For work experience & Education
+sections: true
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! 👋 I'm a Ph.D. student in Graduate School of Data Science at KAIST,
+Hi, I'm Heewoong Noh.
+I'm a Master student in the Industrial and Systems Department at KAIST,
 where I am fortunate to be advised by [Prof. Chanyoung Park](http://dsail.kaist.ac.kr/professor/).
 
-I'm actively on research with my best colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
+"I'm currently engaged in research activities alongside my great colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
 
-My research interest is mainly on anything connected to or can be represented as graphs!
 
-- Recommender System
-- Graph Neural Networks (GNNs) for Chemistry and Biology
-- General Machine Learning and Data Mining
+<!-- Nowadays, the amount of data that is generated every minute in the world makes it challenging to locate the values we require.
+Therefore, it is essential to automatically extract knowledge from real-world data and create AI solutions for a variety of real-world applications from many disciplines.
+
+Among the various data structures, I'm mainly interested in a graph structure, which is simple yet effective to represent complex relationships in reality. -->
+In the vast field of machine learning, my primary focus is to harness the potential of AI to address challenges in the domain of science.
+- AI4Science (Chemistry & Biolgoy)
+- Multi-modality Interaction  
+- Graph Neural Networks & Language models
+
+<!-- My research spans across areas such as AI for Science (including Chemistry and Biology), multi-modality interactions, and the utilization of Graph Neural Networks and Language Models." -->
