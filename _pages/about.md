@@ -6,7 +6,7 @@ subtitle: Master student in Machine Learning
 
 profile:
   align: right
-  image: HeewoongNoh.github.io/assets/img/heewoongnoh.jpg
+  image: ./HeewoongNoh.github.io/assets/img/heewoongnoh.jpg
   # caption: >
   #   <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
 
@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hi, I'm Heewoong Noh.
-I'm a Master student in the Industrial and Systems Department at KAIST,
+I'm a master student in the Industrial and Systems Department at KAIST,
 where I am fortunate to be advised by [Prof. Chanyoung Park](http://dsail.kaist.ac.kr/professor/).
 
 "I'm currently engaged in research activities alongside my great colleagues at [Data Science and Artificial Intelligence Lab](http://dsail.kaist.ac.kr/).
