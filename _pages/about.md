@@ -7,7 +7,7 @@ subtitle: Master student in Machine Learning
 profile:
   align: right
   # image: ./HeewoongNoh.github.io/assets/img/heewoongnoh.jpg
-  image: ./HeewoongNoh.github.io/assets/img/1.jpg
+  image: heewoongnoh.jpg
   # caption: >
   #   <p>''Hi, my name is Louis, third year Bichon Frise! I'm the first dog of AFGRL.''</p>
 
