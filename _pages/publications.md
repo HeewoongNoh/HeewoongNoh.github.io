@@ -2,8 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Full publications on <a href=https://scholar.google.com/citations?user=VIAHsCMAAAAJ&hl=en  style=color:#389AC4>Google Scholar.</a><br> 
-Dagger(†) means  equal contribution.
+description: Full publications on <a href=https://scholar.google.com/citations?user=VIAHsCMAAAAJ&hl=en  style=color:#389AC4>Google Scholar.</a><br> Dagger(†) means  equal contribution.
 # sections:
 #   - bibquery: "@inproceedings"
 #     text: "Conferences"
