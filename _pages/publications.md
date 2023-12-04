@@ -12,8 +12,8 @@ description: Full publications on <a href=https://scholar.google.com/citations?u
 sections:
   - bibquery: "@inproceedings"
     text: "International Conferences"
-  # - bibquery: "@article"
-  #   text: "International Journals"
+  - bibquery: "@article"
+    text: "International Journals"
   - bibquery: "@workshops"
     text: "Workshop Papers"
 
